@@ -1,6 +1,6 @@
 # AirBnB Clone ― The ALX-Holberton BnB
 ![Alt text](https://github.com/chaimaamiftah14/AirBnB_clone/assets/78249686/f2fa11f4-70dd-47b4-9dcd-726ffc1b95bd)
-                                HolbertonBnB
+                                
 ______________________________________________________________________________________________________
 
 Description
